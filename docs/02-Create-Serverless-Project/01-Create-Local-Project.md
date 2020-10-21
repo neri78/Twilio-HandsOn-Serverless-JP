@@ -32,7 +32,7 @@ twilio serverless:init serverless-handson --template never-gonna-give-you-up
 │                                                                              │
 │   Get started by running:                                                    │
 │                                                                              │
-│   cd serverless-handsOn                                                      │
+│   cd serverless-handson                                                      │
 │   npm start                                                                  │
 │                                                                              │
 ╰──────────────────────────────────────────────────────────────────────────────╯
