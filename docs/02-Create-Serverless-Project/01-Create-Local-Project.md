@@ -12,7 +12,7 @@ Twilio Runtimeを利用することで、開発者が自分自身でWebアプリ
 次のコマンドでプロジェクトを作成します。
 
 ```
-twilio serverless:init serverless-handsOn --template never-gonna-give-you-up
+twilio serverless:init serverless-handson --template never-gonna-give-you-up
 ```
 
 上記コマンドは、`serverless-handson`という名前のプロジェクトを`never-gonna-give-you-up`というテンプレートをベースとして作成します。
@@ -45,7 +45,7 @@ cd serverless-handson
 npm start
 ```
 
-この段階で[http://localhost:3000/never-gonna-give-you-up]()をブラウザーで開くと、[TwiML](https://jp.twilio.com/docs/voice/twiml/pay) が表示されます。
+この段階で[http://localhost:3000/never-gonna-give-you-up](http://localhost:3000/never-gonna-give-you-up)をブラウザーで開くと、[TwiML](https://jp.twilio.com/docs/voice/twiml/pay) が表示されます。
 
 このプロジェクトフォルダーの中にある`/functions/never-gonna-give-you-up.js`を開くと、先ほどのTwiMLを出力するためのコードを確認できます。
 
@@ -82,7 +82,7 @@ exports.handler = function(context, event, callback) {
 テンプレートの一覧を確認したい場合は、次のコマンドを実行してください。
 
 ```
-twilio serverless:list-tampltes
+twilio serverless:list-tamplates
 ```
 
 これらのテンプレートはGitHubの[twilio-labs/function-templates](https://github.com/twilio-labs/function-templates)で管理されています。
