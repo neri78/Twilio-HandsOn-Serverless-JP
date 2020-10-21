@@ -14,6 +14,6 @@ Twilioサーバレス実行環境[Twilio Funcsions](https://jp.twilio.com/docs/r
 ## ハンズオン
 
 - [ハンズオン: Twilio CLIおよびTwilio Serverless Toolkitの確認](/docs/01-Twilio-CLI-Serverless-Toolkit/00-Overview.md)
-- [ハンズオン: Serverless Toolkitを使ったローカル開発](/docs/02-Prep-WebApp/00-Overview.md)
+- [ハンズオン: Serverless Toolkitを使ったローカル開発](/docs/02-Create-Serverless-Project/00-Overview.md)
 - [ハンズオン: Twilio Functions & Assetsのデプロイ](/docs/03-Deploy-to-Twilio-Cloud/00-Overview.md)
-- [ハンズオン: 不要なサービスの削除](/docs/04-Clean-up/00-Overview.md)
+- [ハンズオン: 不要なサービスの削除](/docs/04-Remove-Service/00-Overview.md)
